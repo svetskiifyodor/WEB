@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ultra-tube-422220-n6",
+  "private_key_id": "7004f382f3927b43768a1743f3fceceac163b294",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcK+h9P67i0bwW\n7jY3AYsupLfRzeu8o/uf7EKvTovzE+AL+4GXyiChDmvzkFG2IbIQ+pirOtS4qPgY\n8Z8T4NfZHCUbMhbDmN0H7QVmuQVnSu5Y5DsCq4dk085r/kwlvCl5lfPIpeUZd5hA\n6CpbI8tL7pZQ26DwoIIyftgs7DbagCMd2utHhDmeiux4pERc+ZQiT4X5MFd1a3IX\nGygilXuzjF6zgl315k+l+7SadGY9gXPDZYDtwA65CHP7SUsUY7ciUMy6FrKCrz5l\n4zyYMlWqcPucktsYbK/Hf1VcH8XaaIyrRiUtH2j8llBLOjp+PYI2JYJJBpLKrvny\nrwXcnUz7AgMBAAECggEASRbaaxnE+M8fXY1eugvtJGLSEvgFFe5qDcDkskWk9+DV\nM6UedEFJa63Z8FUsiwXMkw5duBojm9mb4svzPyoY/Z32Q3zxSaVpWsQ4Us2BGbUq\nQqAhZtWCcNpPYFJe/Pfl3NMGxskrsLSe+o0X4oGTb3WYuObwGnFuR00Mfn08CHR7\nUzL3/D094Psc9JZ9mozDO82Xg+r3KrFYzM/6UwXve2SKM2iQ1rw8W+1AmwXLbxOI\nOL6HsJ1YDpBHOmKjUGsmvd5BPdA5g3VAIMVbHDTSIJmAbL8/DK3x5FYDe5Pg5761\nsQOStv3w7MObA44vm3WbFATDv4h0tJhT2yq3eEdQoQKBgQD7MUdvXv6y3nb6Ehcw\nyqIKy/AwYsvQbR6EsKhcDjwNrfiXFKlS3FySYQWXwH7WD6thZVHsvDHKc9xNF8mh\nxhQEsU2sj7Uy4/Mvp3vGSWF5nMeEC+6ZxCkxM3qhudQEFtmWBt0yD75sV4It3slL\nAVBM+3G96lq+Uv8BZkVdXYBzLwKBgQDgYqQz23gubPHw/flCQBZTuIuiAd2YhaKY\nmzOwmpUtDZQXKka1KatnOmY4njPN9+i3/qNpd2RGS5HX+OR1uyY9j5gm2SwVuNMU\nFe6kLibfGJYEIQxq/Bg1jLlZSvI6ly2od2YI4HdAM6/WFwvwRM7Rzb4r9jngdRYm\nKa6UvXG/9QKBgCRraq4NGeSZOKrdQJuEZaYnF3YMfPyFNa2LZ32hWrepB6fwCPTI\nmmtmwcbU1A75SqHebNhkGNv/nGtZDZT1ASYFBvwEAgOU5Ud9gwam0Qku4AaXLEsD\nE+3cRuV36fOF1JpZ+GwvuC5BKdC4wnqrgBcJRd6BQhLiObLcPyZgTiVlAoGBAKu3\nkYYGDSEqSrVtB5ZFyVBkyKdA2j7g9h/nllUu177Ux2I6/kWiEAQ90wC9QVP8xuIY\nQyJxNhH9vy0S0nOut4MhIwWH6Y7uFMsoRarrjt/oxtV+HSy6pCRG/4lwK5PfIhfs\n1+8vKNO/Om+Sz5YeclBpLYIjOwOlVz/5Yht+J1EJAoGAWyTqnzCi+8qLFYQCM2r9\n+tuJsnHV5YYYzC7v+nP4MfROoVBvyIbOMaCKUkp5ymvmrNOwUJFK5SYdFdLclpi8\nU3Y1CciG+d0/CX/Q5PVkPAFTJd9tEzvSueanbTOvBoC+AnwFTk8yXdaB9DgXNSy3\nIFI2m1WtsLSvbr9qtcUnkzE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lab-4-723@ultra-tube-422220-n6.iam.gserviceaccount.com",
+  "client_id": "111725980172611513180",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lab-4-723%40ultra-tube-422220-n6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
